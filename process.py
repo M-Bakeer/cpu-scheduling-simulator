@@ -1,4 +1,4 @@
-class Process:
+class Process: 
     def __init__(self, pid, at, bt, priority):
         self.pid = pid          
         self.at = at           
